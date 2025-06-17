@@ -20,10 +20,6 @@ This project is part of my learning from the "Data Analytics with Excel" course 
 - Headphones had the lowest revenue ...
 
 ### 📷 Dashboard Preview
-[Insert image like the one you shared]
-
-
-## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/cbe44175-cbe8-4e84-b1a9-3515a1113387)
 ![image](https://github.com/user-attachments/assets/9e0f1544-c679-4570-80d5-844fa337cc0b)
 ![image](https://github.com/user-attachments/assets/5bc2eb57-738e-44a4-bc4f-efe4ba070e94)
